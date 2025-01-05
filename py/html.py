@@ -179,6 +179,8 @@ def write_menu(f):
     writeln('</p>')
 
     writeln('<p>2. <a href="#comparison">Number of instructions</a></p>')
+    writeln('<hr/>')
+    writeln('<a href="https://github.com/WojciechMula/ternary-logic">GitHub</a>, last update 2021-05-05')
     writeln('</div>')
 
 
